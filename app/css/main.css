@@ -1,0 +1,30 @@
+g.routeDots circle {
+    r: 4;
+    stroke: #000000;
+}
+
+g.paths path {
+    /*fill: #000000;*/
+    fill: rgba(0,0,0,0);
+    stroke: #7F7C7C;
+}
+
+#arteries{
+    fill: #F1F0F5;
+    stroke: #B4C8BB;
+}
+
+#freeways {
+    fill: #F1F0F5;
+    stroke: #7F7C7C;
+}
+
+#streets {
+    fill: #F1F0F5;
+    stroke: #B4C8BB;
+}
+
+#neighborhoods {
+    fill: #FFFFFF;
+    stroke: #7F7C7C;
+}
