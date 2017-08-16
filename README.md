@@ -6,11 +6,11 @@
 - jQuery (3.2.1)
 - d3 (3.5.17)
 
-##Browsers
+## Browsers
 - Chrome (Primary; Displays colors for each bus and route)
 - Firefox and IE (Works the same, but buses and routes are black only)
 
-##Instructions
+## Instructions
 There are two ways for running the app.
 
 ### Running with Express
